@@ -5,6 +5,7 @@
 | :--- | :--- |
 | Farel Liesdia Putra | 140810250040 |
 | Kian Islam Susanto | 140810250079 |
+| Adrian Fathinhady | 140810250024 |
 
 ## Fungsi 
 Platform marketplace barter modern yang mempermudah proses tukar-menukar barang secara aman dan langsung.

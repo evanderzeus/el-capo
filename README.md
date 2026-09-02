@@ -29,4 +29,4 @@ Mahasiswa: Khususnya sekitaran Jatinangor
 <img width="540" height="960" alt="Mockup TukerYuk! + logo" src="https://github.com/user-attachments/assets/575affce-da9b-4349-ad0e-fae8a181db96" />
 
 ## Skema database
-<img width="790" height="731" alt="Table drawio" src="https://github.com/user-attachments/assets/9b869e4b-b3ec-434b-9400-758d56b292e6" />
+<img width="600" height="500" alt="Table drawio" src="https://github.com/user-attachments/assets/9b869e4b-b3ec-434b-9400-758d56b292e6" />
